@@ -16,7 +16,7 @@ export default class Blank extends React.Component {
 
   render = () => (
     <View style={styles.container}>
-      <Text>Welcome to Charath's New App 2</Text>
+      <Text>Welcome to Charath's New App 3</Text>
     </View>
   );
 }
