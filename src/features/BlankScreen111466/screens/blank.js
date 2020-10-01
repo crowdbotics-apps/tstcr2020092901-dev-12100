@@ -24,7 +24,7 @@ export class __Blank extends React.Component {
     <View style={this.props.themedStyle.View_1}>
       <Button
         textStyle={{
-          fontSize: 12,
+          fontSize: 14,
           color: "#000000",
           textAlign: "center",
           fontWeight: "normal",
